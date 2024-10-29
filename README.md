@@ -8,7 +8,7 @@
 | ------ | ------------------ | -------------- | ------------------- |
 | #1     | [Grabación #1](#)  | [Notas #1](#)  | [Ejercicios #1](#)  |
 | #2     | [Grabación #2](#)  | [Notas #2](#)  | [Ejercicios #2](#)  |
-| #3     | [Cadenas Y Arreglos Anidados](https://tinyurl.com/3p49m9jc)  | [Notas #3](../solidity_evm_study_group_01/Material/Sesion3_Strings_Y_ArreglosAnidados/Notas/)  | [Ejercicios #3](../solidity_evm_study_group_01/Material/Sesion3_Strings_Y_ArreglosAnidados/Retos/)  |
+| #3     | [Cadenas Y Arreglos Anidados](https://tinyurl.com/3p49m9jc)  | [Notas #3](./Material/Sesion3_Strings_Y_ArreglosAnidados/Notas/)  | [Ejercicios #3](./Material/Sesion3_Strings_Y_ArreglosAnidados/Retos/)  |
 | #4     | [Grabación #4](#)  | [Notas #4](#)  | [Ejercicios #4](#)  |
 | #5     | [Grabación #5](#)  | [Notas #5](#)  | [Ejercicios #5](#)  |
 | #6     | [Grabación #6](#)  | [Notas #6](#)  | [Ejercicios #6](#)  |
