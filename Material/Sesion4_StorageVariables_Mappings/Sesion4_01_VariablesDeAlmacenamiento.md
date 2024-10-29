@@ -1,4 +1,4 @@
-# Notas de la Sesión 4
+# Sesión 4 - Variables de Almacenamiento
 
 Temas:
 
