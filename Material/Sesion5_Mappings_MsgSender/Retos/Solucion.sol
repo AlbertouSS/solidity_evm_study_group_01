@@ -11,17 +11,18 @@ contract NumerosEspeciales {
     // Haz que los numeros sean especiales
     function hacerNumeroEspecial(uint256 n) public {
         // escribe tu cógido aquí
-
+        esEspecial[n] = true;
     }
 
     // Haz que los numeros NO sean especiales
     function hacerNumeroNoEspecial(uint256 n) public {
         // escribe tu cógido aquí
-
+        esEspecial[n] = false;
     }
 
     /// regresa sí un número es especial o no
     function elNumeroEsEspecial(uint256 n) public view returns (bool) {
         // escribe tu cógido aquí
+        return esEspecial[n];
     }
 }
