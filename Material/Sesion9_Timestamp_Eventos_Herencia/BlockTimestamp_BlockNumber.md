@@ -59,7 +59,7 @@ También puedes saber en qué número de bloque estás con esta variable.
 No uses `block.number` para rastrear el tiempo, solo para garantizar el orden de las transacciones.
 
 ```solidity
-contract Block03 {
+contract BlockNumber01 {
     function whatBlockIsIt() external view returns (uint256) {
         return block.number;
     }
@@ -71,7 +71,7 @@ A mi por ejemplo, esto siempre me devuelve `159` en Remix.
 Puedes usar el siguiente código para asegurarte de que una función se llame después de otra, es decir, en un bloque posterior:
 
 ```solidity
-contract Block04 {
+contract BlockNumber02 {
     // por defecto es cero
     uint256 private calledAt;
 
@@ -89,3 +89,4 @@ contract Block04 {
 ### Links adicionales
 
 - [Epoch Converter](https://www.epochconverter.com/)
+- [Variables Globales y Unidades](https://docs.soliditylang.org/en/v0.8.28/units-and-global-variables.html)
